@@ -1,4 +1,4 @@
-package TypesOfClass
+package typesOfClass
 
 fun main () {
 

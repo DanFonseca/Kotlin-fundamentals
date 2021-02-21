@@ -1,4 +1,4 @@
-package POO
+package poo
 
 fun main() {
     println(CarCompanion.count())
