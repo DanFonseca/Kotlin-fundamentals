@@ -24,4 +24,8 @@ fun Int.Companion.typeOfClass (){
 val String.betterLength: Int
     get() = this.length
 
+suspend fun teste(){
+
+}
+
 

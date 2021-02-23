@@ -14,8 +14,8 @@ fun sayHello (calculo: (Int, Int) -> Int)
     println(calculo (5,7))
 }
 
-object dataBase  {
-     fun sayHello (text: String){
+object dataBase {
+    fun sayHello(text: String) {
         println(text)
     }
 }
